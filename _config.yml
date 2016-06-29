@@ -1,0 +1,28 @@
+name: Chris Paltzat Photography
+favicon: null
+layout_spectrum: 0.5204939355608076
+typography_spectrum: 0.6240751121658832
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.1111213902477175
+  lightness: 0.5661648686509579
+  saturation: 0.9334019394591451
+  rhythmicContrast: 0.2745582575444132
+purpose: []
